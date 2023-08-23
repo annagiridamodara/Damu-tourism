@@ -1,0 +1,34 @@
+.head{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(239, 20, 20);
+    text-decoration: underline;
+    text-align: center;
+}
+.p{
+    text-align: center;
+    background-color: rgb(147, 191, 191);
+    color: rgb(19, 7, 253);
+}
+.bg-container{
+    background-color: rgb(229, 232, 234);
+    height: 100vh;
+    width:100%;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    padding:10px ;
+}
+.button{
+    color: rgb(9, 218, 100);
+    background-color: rgb(95, 95, 98);
+    border-radius: 10px;
+    border-style: dashed;
+}
+.button2{
+    color: rgb(9, 218, 100);
+    background-color: rgb(95, 95, 98);
+    border-radius: 10px;
+    border-style: dashed;
+
+}
